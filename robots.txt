@@ -1,0 +1,12 @@
+User-agent: *
+Disallow:
+Disallow: /cgi-bin/
+Disallow: /als/alsicehallenge.asp
+Disallow: /als/als-stories-kathryn.asp
+Disallow: /resume-templates/*
+Disallow: /bayadainsider/*
+Sitemap: http://www.bayada.com/sitemap.asp
+
+User-agent: Googlebot
+Disallow: /Jobbank/*
+Disallow: /jobbank/*
