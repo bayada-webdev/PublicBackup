@@ -1,0 +1,4 @@
+<%
+Response.Redirect "/contact.asp"
+
+%>
